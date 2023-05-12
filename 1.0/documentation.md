@@ -12,3 +12,5 @@
   - [TCP 服务器](/docs/{{version}}/5_3)
   - [UDP 服务器](/docs/{{version}}/5_4)
   - [CRON 服务器](/docs/{{version}}/5_5)
+- **游戏组件**
+  - [掉落组件](/docs/{{version}}/6_1)
