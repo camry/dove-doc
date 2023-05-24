@@ -7,6 +7,7 @@
   - [错误组件](/docs/{{version}}/3_2)
   - [网络组件](/docs/{{version}}/3_3)
   - [定时器组件](/docs/{{version}}/3_4)
+  - [随机数组件](/docs/{{version}}/3_5)
 - **插件**
   - [日志插件](/docs/{{version}}/4_1)
 - **服务注册**
